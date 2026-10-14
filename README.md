@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alejo Len</h1>
-<h3 align="center">I build infrastructure that doesn't wake anyone up at 3 AM — and when it does, I've already written the runbook.</h3>
+<h3 align="center">I enjoy automating deployments, solving infrastructure puzzles, and keeping systems running smoothly. My goal? Fewer manual tasks, fewer surprises, and absolutely no 3 AM calls. </h3>
 
 - 🔭 I’m currently working on **building a CI/CD pipeline**
 
 - 💬 Ask me about **devops, cloud and sre**
 
-- 📫 How to reach me **allenaclan27@gmail.com**
+- 📫 How to reach me email: **allenaclan27@gmail.com** linkedin: **linkedin.com/in/alejo-len/**
 
 - ⚡ Fun fact **My love language is a green pipeline.**
 
