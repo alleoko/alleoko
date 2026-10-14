@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejo Len</h1>
-<h3 align="center">I enjoy automating deployments, solving infrastructure puzzles, and keeping systems running smoothly. My goal? Fewer manual tasks, fewer surprises, and absolutely no 3 AM calls. </h3>
+<h3 align="center">I enjoy automating deployments, solving infrastructure puzzles, and keeping systems running smoothly.</h3>
 
 - 🔭 I’m currently working on **building a CI/CD pipeline**
 
