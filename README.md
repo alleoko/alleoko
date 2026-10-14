@@ -1,24 +1,36 @@
-<h1 align="center">Hi 👋, I'm Alejo Len</h1>
-<h3 align="center">I enjoy automating deployments, solving infrastructure puzzles, and keeping systems running smoothly.</h3>
+<h1 align="center">Alejo Len</h1>
 
-- 🔭 I’m currently working on **building a CI/CD pipeline**
-
-- 💬 Ask me about **devops, cloud and sre**
-
-- 📫 How to reach me email: **allenaclan27@gmail.com** linkedin: **linkedin.com/in/alejo-len/**
-
-- ⚡ Fun fact **My love language is a green pipeline.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alejo-len" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejo-len" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=automating+deployments;solving+infrastructure+puzzles;keeping+systems+running+smoothly" alt="typing tagline" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="30" height="30"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="30" height="30"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="30" height="30"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="30" height="30"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/alejo-len"><img src="https://img.shields.io/badge/LinkedIn-alejo--len-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:allenaclan27@gmail.com"><img src="https://img.shields.io/badge/Email-allenaclan27@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alleoko&show_icons=true&locale=en&layout=compact" alt="alleoko" /></p>
+```yaml
+role:      DevOps / Cloud / SRE
+building:  a CI/CD pipeline
+ask_me:    [devops, cloud, sre]
+love_lang: a green pipeline ✅
+```
 
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alleoko&" alt="alleoko" /></p>
+<h3 align="center">Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,bash,docker,kubernetes,jenkins,git,grafana,vagrant&theme=dark" alt="infra stack" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=py,java,nginx,postgres,mysql,mariadb,mongodb,redis,rabbitmq&theme=dark" alt="languages and data" />
+</p>
+
+<br>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alleoko&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" alt="top languages" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alleoko&hide_border=true&background=0D1117&stroke=30363D&ring=C9D1D9&fire=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="streak" />
+</p>
